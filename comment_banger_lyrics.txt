@@ -1,0 +1,38 @@
+🎵 Internet Banger
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Intro]
+Both :) more system but it’s shown up in both plenty
+
+
+[Verse 1]
+came down to comments to see this mentioned, legendary pull around 18:50
+Is the load balancer placed between App gateway and the services?
+That’s what the pub sub with sse is doing
+Great interviewer. His feedback is very useful!
+
+[Chorus]
+Both :) more system but it’s shown up in both plenty
+Both :) more system but it’s shown up in both plenty
+
+[Verse 2]
+This is an extremely valuable Video - Thank You!!
+The final design is clean and easy to understand. Thanks!
+Could you share the Excalidraw+ link with us?
+why did the interviewer advice against using a message broker?
+
+[Chorus]
+Both :) more system but it’s shown up in both plenty
+Both :) more system but it’s shown up in both plenty
+
+[Bridge]
+@hello_interview  Is this the tool Meta uses as well?
+wow, this format was really helpful! Thanks!
+It should be passed in the header, not as a REST parameter
+
+[Chorus]
+Both :) more system but it’s shown up in both plenty
+Both :) more system but it’s shown up in both plenty
+
+[Outro]
+Both :) more system but it’s shown up in both plenty...
